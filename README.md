@@ -42,11 +42,25 @@ The steps to be followed in this example are as follows:
    Interpreting the results obtained and evaluating the outcomes.
 
 ---
-Each step will be explained in detail along with the processes carried out and the findings obtained.
+## Model Evaluation
 
+Below is a scatter plot showing the model's prediction results:
 
+![Scatter plot of actual vs. predicted values](model2.png)
 
+### Comparison of Actual and Predicted Values
 
+In this scatter plot, the x-axis represents the actual test values, while the y-axis shows the values predicted by our model. The fact that the points are distributed close to the diagonal indicates that the model's predictions are quite close to the actual values. This demonstrates that our model performs well.
+
+**Evaluation Metrics:**
+
+- **MAE (Mean Absolute Error):** 7.29
+- **MSE (Mean Squared Error):** 90.86
+- **R² (R-squared):** 0.98
+
+### Residuals Distribution
+
+The following plot shows the distribution of residuals (the difference between actual and predicted values). A roughly normal distribution centered around zero suggests that the model's errors are unbiased.
 
 
 
