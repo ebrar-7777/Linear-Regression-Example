@@ -62,8 +62,22 @@ In this scatter plot, the x-axis represents the actual test values, while the y-
 
 The following plot shows the distribution of residuals (the difference between actual and predicted values). A roughly normal distribution centered around zero suggests that the model's errors are unbiased.
 
+![Residuals Distribution](residuals.png)
 
+## What is the conclusion?
 
+**Should NIH focus more on the mobile app or the website?**
+
+Based on the coefficient values:
+
+- **Time on App Coefficient:** 38.77
+- **Time on Website Coefficient:** 0.63
+
+If users spend one more hour on the app, the yearly revenue increases by approximately 38.77 units.  
+However, one more hour on the website only increases the revenue by 0.63 units.
+
+**Conclusion:**  
+NIH should focus more on developing its mobile app, as increased user engagement there has a much greater impact on yearly revenue compared to the website.
 
 
 
