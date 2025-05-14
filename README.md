@@ -79,7 +79,7 @@ However, one more hour on the website only increases the revenue by 0.63 units.
 **Conclusion:**  
 NIH should focus more on developing its mobile app, as increased user engagement there has a much greater impact on yearly revenue compared to the website.
 
-
+[You can find the detailed Python code here.](https://github.com/ebrar-7777/Linear-Regression-Example/blob/main/linear_regression.ipynb)
 
 
 
